@@ -1,1 +1,1 @@
-# caffe-extra-shot
+# extra-shot
